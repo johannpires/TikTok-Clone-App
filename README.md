@@ -13,9 +13,9 @@ This app therefore, offers a comprehensive example of building a native iOS app 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 
-<img src="TikTokClone/Screenshots/screen.png" height="400" width="320">&emsp;<img src="TikTokClone/Screenshots/screen2.png" height="400" width="320">&emsp;<img src="TikTokClone/Screenshots/screen3.png" height="400" width="320"> 
+<img src="TikTokClone/Screenshots/screen.png" height="360" width="280">&emsp;<img src="TikTokClone/Screenshots/screen2.png" height="360" width="280">&emsp;<img src="TikTokClone/Screenshots/screen3.png" height="360" width="280"> 
 
-<img src="TikTokClone/Screenshots/screen4.png" height="400" width="320">&emsp;<img src="TikTokClone/Screenshots/screen5.png" height="400" width="320">&emsp;<img src="TikTokClone/Screenshots/screen6.png" height="400" width="320"> 
+<img src="TikTokClone/Screenshots/screen4.png" height="360" width="280">&emsp;<img src="TikTokClone/Screenshots/screen5.png" height="360" width="280">&emsp;<img src="TikTokClone/Screenshots/screen6.png" height="360" width="280"> 
 
 
 ## Key features and functionalities

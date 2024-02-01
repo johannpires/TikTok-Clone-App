@@ -13,9 +13,10 @@ This app therefore, offers a comprehensive example of building a native iOS app 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 
-<img src="Screenshots/screen1.png" height="420" width="260">&emsp;<img src="Screenshots/screen2.png" height="420" width="260">&emsp;<img src="Screenshots/screen4.png" height="420" width="260"> 
+<img src="Screenshots/screen1.png" height="420" width="260">&emsp;<img src="Screenshots/screen3.png" height="420" width="260">&emsp;<img src="Screenshots/screen4.png" height="420" width="260"> 
 
-<img src="Screenshots/screen5.png" height="420" width="260">&emsp;<img src="Screenshots/screen7.png" height="420" width="260">&emsp;<img src="Screenshots/screen8.png" height="420" width="260"> 
+<img src="Screenshots/screen5.png" height="420" width="260">&emsp;<img src="Screenshots/screen6.png" height="420" width="260">&emsp;<img src="Screenshots/screen7.png" height="420" width="260"> 
+
 
 ## Key features and functionalities
 

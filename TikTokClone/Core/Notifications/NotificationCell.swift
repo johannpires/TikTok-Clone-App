@@ -20,7 +20,7 @@ struct NotificationCell: View {
                     .font(.footnote)
                     .fontWeight(.semibold) +
                 
-                Text(" liked one of your posts blabla blabla. ")
+                Text(" liked one of your posts: Happy 2024 ❤️‍🔥❤️‍🔥 ")
                     .font(.footnote) +
                 
                 Text("3d")

@@ -29,7 +29,7 @@ struct FeedCell: View {
                     VStack(alignment: .leading) {
                         Text("johannprs")
                             .fontWeight(.semibold)
-                        Text("I'm a mere shadow cast from a bird that flyes above tought")
+                        Text("It is not I that am sitted beside you, but a mere shadow cast from a bird that flies above tought")
                     }
                     .foregroundStyle(.white)
                     .font(.subheadline)
@@ -37,9 +37,12 @@ struct FeedCell: View {
                     
                     VStack(spacing: 28) {
                         
-                        Circle()
+  //                      Circle()
+                        Image("johannProfile")
+                            .resizable()
+                            .aspectRatio(contentMode: .fill)
                             .frame(width: 48, height: 48)
-                            .foregroundStyle(.gray)
+                            .clipShape(Circle())
                         
                         Button {
                             

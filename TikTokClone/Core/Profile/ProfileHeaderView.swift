@@ -24,8 +24,8 @@ struct ProfileHeaderView: View {
         
         // stats view
         HStack(spacing: 16) {
-            UserStatView(value: 10, title: "Following")
-            UserStatView(value: 2, title: "Followers")
+            UserStatView(value: 107, title: "Following")
+            UserStatView(value: 222, title: "Followers")
             UserStatView(value: 7, title: "Likes")
             
         }

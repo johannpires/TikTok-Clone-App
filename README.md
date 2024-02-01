@@ -20,10 +20,10 @@ This app therefore, offers a comprehensive example of building a native iOS app 
 
 ## Key features and functionalities
 
-* User authentication.
 * Feed for discovering and watching videos.
 * Interaction with videos through play and pause, likes, comments, and share buttons.
-* TabView with scrollable and interactive Main Feed, Friends tab, Inbox for notifications, and User Profile.
+* Explore tab with friends and other profiles.
+* TabView with scrollable and interactive Main Feed, Friends tab, Inbox for notifications, and your own User Profile.
 * By examining the codebase and structure, developers can gain insights into SwiftUI best practices, software architecture, and how to integrate essential features for a social media app.
 
 ## Tecnologies

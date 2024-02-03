@@ -30,6 +30,7 @@ This app therefore, offers a comprehensive example of building a native iOS app 
 * Swift
 * SwiftUI
 * AVKit
+* Network Requests: Integration of network calls, utilizing HTTPS, to fetch dynamic video content in JSON format from an external API.
 
 ## Author
 Johann Pires (follow me on [LinkedIn](https://www.linkedin.com/in/johann-p-261961215/))

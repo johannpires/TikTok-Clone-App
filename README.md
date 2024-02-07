@@ -1,7 +1,7 @@
 # TikTok Clone App
 
 ## Overview
-This is a native iOS TikTok app clone fully developed in Swift using SwiftUI framework.
+This is a native iOS TikTok app clone fully developed in Swift using SwiftUI framework, AVKit and a modular architecture.
 
 ## Purpose
 This application aims to replicate the popular TikTok experience on iOS devices using the SwiftUI framework. With a user-friendly interface TikTok has a focus on creating and sharing short-form videos. This TikTok clone, as the original version, provides a seamless and entertaining platform for users to showcase their creativity.
@@ -31,6 +31,7 @@ This app therefore, offers a comprehensive example of building a native iOS app 
 * SwiftUI
 * AVKit
 * Network Requests: Integration of network calls, utilizing HTTPS, to fetch dynamic video content in JSON format from an external API.
+* Modular or component-based architecture. Meaning each module is responsible for a specific set of features, making the codebase more organized and maintainable. Plus, UI components are broken down into reusable and composable pieces, promoting code reusability and easier management.
 
 ## Author
 Johann Pires (follow me on [LinkedIn](https://www.linkedin.com/in/johann-p-261961215/))
